@@ -4,8 +4,8 @@ import pandas as pd
 df = pd.read_csv("https://raw.githubusercontent.com/ApnaClassroom/Dataset/main/Customer%20Purchase.csv")
 
 mapping = {
-    "UG":"Under Graduate",
-    "PG":"Post Graduate",
+    "UG":"Under-----Graduate",
+    "PG":"Post------Graduate",
     "School":"School"
 }
 
